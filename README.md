@@ -182,7 +182,7 @@ For more information, please see our contribution [guidelines](./CONTRIBUTING.md
 
 ## License
 
-MIT Licensed. See [LICENSE](./LICENSE) for full details.
+MIT Licensed. See [LICENSE](https://github.com/codectl/terraform-azure-mag/blob/main/LICENSE) for full details.
 
 ## References
 
